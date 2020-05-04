@@ -27,7 +27,9 @@ const OrderComplete = ({ order }) => {
           </Button>
         </Container>
       ) : (
-        <h1>There was an issue with your order, please try again...</h1>
+        <Container>
+          <h1>There was an issue with your order, please try again...</h1>
+        </Container>
       )}
     </div>
   );

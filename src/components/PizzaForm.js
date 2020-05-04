@@ -241,6 +241,7 @@ const PizzaForm = ({ setOrder }) => {
                   placeholder="What would you like..?"
                   value={formState.instructions}
                   onChange={inputChange}
+                  cy-data="instructions"
                 />
               </FormGroup>
             </FormGroup>
