@@ -1,0 +1,27 @@
+.nav-main {
+  border: 1px solid black;
+}
+
+.header-brand {
+  color: #eb3945 !important;
+}
+
+.header-nav {
+  border: 1.5px solid black;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header-link {
+  color: black;
+}
+
+.header-link:hover {
+  color: #eb3945;
+}
+
+.active {
+  background: black;
+  color: white;
+}

@@ -1,0 +1,38 @@
+/* .header-img {
+  width: 100%;
+  background: black;
+  height: 700px;
+} */
+
+/* .header {
+  height: 500px;
+} */
+
+.header-img {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+}
+/* 
+  .header .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    padding: 12px 24px;
+    cursor: pointer;
+  } */
+
+.top-home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.top-home h1 {
+  margin-bottom: 2%;
+}
