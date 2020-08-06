@@ -1,0 +1,22 @@
+.complete-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.complete-container h1 {
+  margin-top: 5%;
+  color: #eb3945;
+  margin-bottom: 3%;
+}
+
+.btn-home {
+  margin-top: 3%;
+  width: 20%;
+}
+
+.complete-container h2 {
+  font-size: 1rem;
+}
